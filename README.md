@@ -9,6 +9,7 @@
 ## 自述
 高颜值，简约可用
 
+![image](https://user-images.githubusercontent.com/51908013/164231890-bda7a5eb-d52a-4213-ae9a-d1c2e1dcf28d.png)
 
 
 ## Project setup
