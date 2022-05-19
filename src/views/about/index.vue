@@ -8,7 +8,7 @@
 			<div class="about">
 				<p>基于矿山的GPS流处理平台</p>
 				<p>前端面板使用VUE+element-UI打造，操作简单，界面友好，互动性强。</p>
-        <p>后端使用flask + mysql 进行交互</p>
+        <p>后端使用flask + mysql + Hbase进行交互</p>
 				<p style="float: right;">mfj 编辑于: 2022.4.2</p>
 			</div>
 		</div>

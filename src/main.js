@@ -21,6 +21,8 @@ Vue.use(ElementUI);
 Vue.config.productionTip = false
 // import 'jquery'
 import '@/sytles/index.css' // 全局样式表
+// import '@/sytles/common.css' // 全局样式表
+// import '@/sytles/map.css' // 全局样式表
 import store from './store'
 // import Echarts from "echarts";
 

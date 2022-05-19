@@ -1,4 +1,10 @@
 module.exports = {
+ configureWebpack: { externals: {
+   'BMap': 'BMap',
+   // 'BMap_Symbol_SHAPE_POINT':'BMap_Symbol_SHAPE_POINT'
+   BMapLib: "BMapLib"
+  } },
+
  publicPath: '/',
  // resolve: {
  //  extensions: ['.js', '.vue', '.json'],
